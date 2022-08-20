@@ -1,5 +1,3 @@
-import 'f3_example_state.dart';
-
 abstract class ExampleEvent{}
 
 class TextChanged extends ExampleEvent{
